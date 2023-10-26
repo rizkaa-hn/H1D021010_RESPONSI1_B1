@@ -1,5 +1,5 @@
 class ApiUrl{
-  static const String baseUrl = 'https://responsi1b.dalhaqq.xyz/manajemen_tugas';
+  static const String baseUrl = 'https://responsi1b.dalhaqq.xyz/api/manajemen_tugas';
   static const String registrasi = baseUrl + '/registrasi';
   static const String login = baseUrl + '/login';
   static const String listTugas = baseUrl + '/tugas';
